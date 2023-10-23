@@ -24,7 +24,7 @@ namespace HW_Generics_Moroz
                 Name = "Animal class",
                 Description = "Animal => Meow",
                 Population = 21
-            };
+            };   
 
             Console.WriteLine(cat1.GetPopulation());
             Console.WriteLine(cat1.GetDescription());
