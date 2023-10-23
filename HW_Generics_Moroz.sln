@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34112.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_Generics_Moroz", "HW_Generics_Moroz\HW_Generics_Moroz.csproj", "{89C4284F-522A-4369-B59B-8D3592BE660A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{0652A7C8-3661-437D-BE12-B3362DE433CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89C4284F-522A-4369-B59B-8D3592BE660A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C4284F-522A-4369-B59B-8D3592BE660A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C4284F-522A-4369-B59B-8D3592BE660A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C4284F-522A-4369-B59B-8D3592BE660A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0652A7C8-3661-437D-BE12-B3362DE433CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0652A7C8-3661-437D-BE12-B3362DE433CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0652A7C8-3661-437D-BE12-B3362DE433CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0652A7C8-3661-437D-BE12-B3362DE433CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F201CB6-6656-4AA2-A90A-D8027D0B9AF6}
+	EndGlobalSection
+EndGlobal
